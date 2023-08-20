@@ -15,24 +15,31 @@ Data final 11/10/2023
 Perguntas mais frequentes
 --------------------------------------------------------------------------------------------------
 Existe algum grupo de Whatsapp?
-         - Sim, segue o link:
-https://chat.whatsapp.com/LstGsRnZCSqDPR0rr5L0wF
+
+         - Sim, segue o link: https://chat.whatsapp.com/LstGsRnZCSqDPR0rr5L0wF
 
 Qual o valor do investimento? 
+
          - R$ 0
+         
 Onde será feita a transmissão?
+
              - Todos os encontros serão ao vivo através do Youtube
 
 Os conteúdos ficarão gravados?
+
          - Sim 
 
 Onde consigo os scripts para acompanhar?
+
             - Todos os scripts estarão disponíveis no Github
 
 Terá Exercícios?
+
            - Sim, no final de cada encontro e resolvido no início do próximo
 
 Terá certificado?
+
           - Não
 
 --------------------------------------------------------------------------------------------------
@@ -64,6 +71,8 @@ Aula 1 - 23/08/2023
 
 - Profissões que Trabalham com Dados
 
+- Teste Kahoot
+
 --------------------------------------------------------------------------------------------------
 
 Aula 2 - 30/08/2023
@@ -81,12 +90,16 @@ Aula 2 - 30/08/2023
 
 - Tipos de dados
 
-- Criando sua primeira tabela
+- Criando sua tabela (parte 1)
+
+- Teste Kahoot
 
 --------------------------------------------------------------------------------------------------
 
 Aula 3 - 06/09/2023
 -
+
+- Apresentação – Quem somos nós
 
 - Manipulação da estrutura (Create, Alter, Drop)
 
@@ -94,16 +107,20 @@ Aula 3 - 06/09/2023
 
 - Truncate VS Update VS Drop
 
-- Criar sua primeira tabela
+- Criar sua primeira tabela (parte 2)
 
 - Inserir seu primeiro registro via script
 
 - Constraints
 
+- Teste Kahoot
+
 --------------------------------------------------------------------------------------------------
 
 Aula 4 - 13/09/2023
 -
+
+- Apresentação – Quem somos nós
 
 - Introdução as consultas (Select)
 
@@ -121,10 +138,14 @@ Aula 4 - 13/09/2023
 
 - Conversão de dados
 
+- Teste Kahoot
+
 --------------------------------------------------------------------------------------------------
 
 Aula 5 - 20/09/2023
 -
+
+- Apresentação – Quem somos nós
 
 - União de tabelas
 
@@ -134,20 +155,28 @@ Aula 5 - 20/09/2023
 
 - Ordem de processamento de uma consulta
 
+- Teste Kahoot
+
 --------------------------------------------------------------------------------------------------
 
 Aula 6 - 27/09/2023
 -
 
+- Apresentação – Quem somos nós
+  
 - Modelagem de dados Relacional
 
 - Junção de tabelas
+
+- Teste Kahoot
 
 --------------------------------------------------------------------------------------------------
 
 Aula 7  - 04/10/2023
 -
 
+- Apresentação – Quem somos nós
+  
 - Variáveis
   
 - Subconsultas, CTE e Tabelas temporárias
@@ -158,11 +187,15 @@ Aula 7  - 04/10/2023
 
 - Disponibilização de teste para processo seletivo
 
+- Teste Kahoot
+
 --------------------------------------------------------------------------------------------------
 
 Aula 8 - 11/10/2023
 -
 
+- Apresentação – Quem somos nós
+  
 - Resolução de teste para processo seletívo
 
 --------------------------------------------------------------------------------------------------
