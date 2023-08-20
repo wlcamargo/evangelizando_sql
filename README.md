@@ -1,19 +1,39 @@
-# evangelizando_sql
-Projeto Evanglizando SQL
+# Regulamento do Projeto
 
+Contextualização
+-
 O projeto nasceu de uma conversa entre mim (Wallace Camargo) e o Shalom André. Estávamos inicialmente planejando que eu o desafiasse ao vivo em SQL e que outras pessoas pudessem acompanhar o desafio, mas o rumo acabou sendo diferente a agora vamos realizar um mini curso de SQL e deixar nossa contribuição com a comunidade dos dados. 
 
 O intuito do projeto é disseminar o conceito básico de SQL para profissionais que desejam iniciar na carreira de dados. O projeto não vai abordar conceitos importantes que um DBA precisa saber, o foco é para utilizadores dos dados, sendo eles analistas, engenheiros ou cientistas. 
 
+Participantes e Apoiadores
+-
+Shalom André - https://www.linkedin.com/in/shalomandre/
+
+Wallace Camargo - https://www.linkedin.com/in/wallace-camargo-35b615171/
+
+Ítalo Mesquita -  https://www.linkedin.com/in/italomesquita/
+
+Luiz França - https://www.linkedin.com/in/luizvitorlima/
+
+Raphael Amorin -  https://www.linkedin.com/in/raphael-amorim-de-santana/
+
+Enzo Delcampori - https://www.linkedin.com/in/enzodelcompare/
+
 --------------------------------------------------------------------------------------------------
+Cronograma
+-
+
 Serão 8 encontros realizados todas às quartas-feiras 19h Brasília com a duração estimada de 1 hora cada encontro. (total de 8 horas)
 
 Data Inicial 23/08/2023
 Data final 11/10/2023
 
 
+
 Perguntas mais frequentes
 --------------------------------------------------------------------------------------------------
+
 Existe algum grupo de Whatsapp?
 
          - Sim, segue o link: https://chat.whatsapp.com/LstGsRnZCSqDPR0rr5L0wF
@@ -40,13 +60,21 @@ Terá Exercícios?
 
 Terá certificado?
 
-          - Não
+          - Sim
+
+Como faço para ganhar o certificado?
+
+         - Critério a definir
+         
+Eu vou aprender a criar uma view? Vou saber exatamente o que é isso e para que serve?
+
+         - Sim, vai sair entendendo tudo sobre uma view
 
 --------------------------------------------------------------------------------------------------
 Grade
 --------------------------------------------------------------------------------------------------
 
-Aula 1 - 23/08/2023
+Aula 1 - 23/08/2023 - Wallace Camargo
 -
 
 - Apresentação – Quem somos nós
