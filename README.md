@@ -14,7 +14,7 @@ Wallace Camargo - https://www.linkedin.com/in/wallace-camargo-35b615171/
 
 Ítalo Mesquita -  https://www.linkedin.com/in/italomesquita/
 
-Luiz França - https://www.linkedin.com/in/luizvitorlima/
+Luiz Lima - https://www.linkedin.com/in/luizvitorlima/
 
 Raphael Amorin -  https://www.linkedin.com/in/raphael-amorim-de-santana/
 
