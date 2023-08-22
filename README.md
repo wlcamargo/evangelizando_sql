@@ -20,6 +20,8 @@ Raphael Amorin -  https://www.linkedin.com/in/raphael-amorim-de-santana/
 
 Enzo Delcampori - https://www.linkedin.com/in/enzodelcompare/
 
+Reginaldo Batista - https://www.linkedin.com/in/reginaldo-batista/
+
 --------------------------------------------------------------------------------------------------
 Cronograma
 -
