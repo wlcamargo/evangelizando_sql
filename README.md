@@ -44,7 +44,7 @@ Qual o valor do investimento?
          
 Onde será feita a transmissão?
 
-             - Todos os encontros serão ao vivo através do Youtube
+             - Todos os encontros serão ao vivo através do Youtube às 20h de Brasília
 
 Os conteúdos ficarão gravados?
 
