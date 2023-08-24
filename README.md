@@ -48,6 +48,9 @@ Onde será feita a transmissão?
 
              - Todos os encontros serão ao vivo através do Youtube às 20h de Brasília
 
+Qual o link do canal?
+         - https://www.youtube.com/channel/UCK0B4IoF57JoiVVVeEcN8-A
+
 Os conteúdos ficarão gravados?
 
          - Sim 
@@ -76,7 +79,10 @@ Eu vou aprender a criar uma view? Vou saber exatamente o que é isso e para que 
 Grade
 --------------------------------------------------------------------------------------------------
 
-Aula 1 - 23/08/2023 - Wallace Camargo
+Aula 1 - 23/08/2023 - Wallace Camargo - https://www.youtube.com/watch?v=fltjmaeXbfQ&t=2642s
+-
+
+Conteúdo abordado
 -
 
 - Apresentação – Quem somos nós
@@ -108,6 +114,9 @@ Aula 1 - 23/08/2023 - Wallace Camargo
 Aula 2 - 30/08/2023 - Raphael Amorim 
 -
 
+Conteúdo abordado
+-
+
 - Apresentação – Quem somos nós
 
 - Primeiro acesso ao SGBD
@@ -129,6 +138,9 @@ Aula 2 - 30/08/2023 - Raphael Amorim
 Aula 3 - 06/09/2023 - Ítalo Mesquita
 -
 
+Conteúdo abordado
+-
+
 - Apresentação – Quem somos nós
 
 - Manipulação da estrutura (Create, Alter, Drop)
@@ -148,6 +160,9 @@ Aula 3 - 06/09/2023 - Ítalo Mesquita
 --------------------------------------------------------------------------------------------------
 
 Aula 4 - 13/09/2023 - Luiz Lima
+-
+
+Conteúdo abordado
 -
 
 - Apresentação – Quem somos nós
@@ -175,6 +190,9 @@ Aula 4 - 13/09/2023 - Luiz Lima
 Aula 5 - 20/09/2023 - Wallace Camargo
 -
 
+Conteúdo abordado
+-
+
 - Apresentação – Quem somos nós
 
 - União de tabelas
@@ -192,6 +210,9 @@ Aula 5 - 20/09/2023 - Wallace Camargo
 Aula 6 - 27/09/2023 - Ítalo Mesquita
 -
 
+Conteúdo abordado
+-
+
 - Apresentação – Quem somos nós
   
 - Modelagem de dados Relacional
@@ -203,6 +224,9 @@ Aula 6 - 27/09/2023 - Ítalo Mesquita
 --------------------------------------------------------------------------------------------------
 
 Aula 7  - 04/10/2023 - Luiz Lima
+-
+
+Conteúdo abordado
 -
 
 - Apresentação – Quem somos nós
@@ -222,6 +246,9 @@ Aula 7  - 04/10/2023 - Luiz Lima
 --------------------------------------------------------------------------------------------------
 
 Aula 8 - 11/10/2023 - Resolução do Processo
+-
+
+Conteúdo abordado
 -
 
 - Apresentação – Quem somos nós
