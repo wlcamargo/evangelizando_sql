@@ -26,7 +26,7 @@ Reginaldo Batista - https://www.linkedin.com/in/reginaldo-batista/
 Cronograma
 -
 
-Serão 8 encontros realizados todas às quartas-feiras 19h Brasília com a duração estimada de 1 hora cada encontro. (total de 8 horas)
+Serão 8 encontros realizados todas às quartas-feiras 20h Brasília com a duração estimada de 1 hora cada encontro. (total de 8 horas)
 
 Data Inicial 23/08/2023
 Data final 11/10/2023
