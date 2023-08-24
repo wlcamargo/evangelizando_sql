@@ -46,9 +46,10 @@ Qual o valor do investimento?
          
 Onde será feita a transmissão?
 
-             - Todos os encontros serão ao vivo através do Youtube às 20h de Brasília
+         - Todos os encontros serão ao vivo através do Youtube às 20h de Brasília
 
 Qual o link do canal?
+
          - https://www.youtube.com/channel/UCK0B4IoF57JoiVVVeEcN8-A
 
 Os conteúdos ficarão gravados?
@@ -57,15 +58,15 @@ Os conteúdos ficarão gravados?
 
 Onde consigo os scripts para acompanhar?
 
-            - Todos os scripts estarão disponíveis no Github
+         - Todos os scripts estarão disponíveis no Github
 
 Terá Exercícios?
 
-           - Sim, no final de cada encontro e resolvido no início do próximo
+         - Sim, no final de cada encontro e resolvido no início do próximo
 
 Terá certificado?
 
-          - Sim
+         - Sim
 
 Como faço para ganhar o certificado?
 
