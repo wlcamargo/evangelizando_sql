@@ -112,7 +112,7 @@ Conteúdo abordado
 
 --------------------------------------------------------------------------------------------------
 
-Aula 2 - 30/08/2023 - Raphael Amorim 
+Aula 2 - 30/08/2023 - Raphael Amorim - https://www.youtube.com/watch?v=w5RVscFnYVQ
 -
 
 Conteúdo abordado
