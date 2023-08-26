@@ -124,7 +124,7 @@ Conteúdo abordado
 
 - O que você precisa saber sobre a interface do SSMS
 
-- Hierarquia de um SGBD (Instância, Database, Schema, Tabela, Linha) 
+- Hierarquia de um banco de dados (instância, database, schema, tabela, coluna e linha) 
 
 - Criando sua primeira Base de dados 
 
