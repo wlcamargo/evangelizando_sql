@@ -1,9 +1,9 @@
 Instalar o SQL Server
 
-Vídeo da intalação
+Vídeo da instalação
 https://www.youtube.com/watch?v=mi0t1bz_NKs
 
-instalação bem detalhada
+Instalação bem detalhada
 https://www.youtube.com/watch?v=hko8_P8_QtE&t=998s
 
 Link para adicionar o banco de dados adventure works
