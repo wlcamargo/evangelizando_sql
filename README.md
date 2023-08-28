@@ -22,6 +22,8 @@ Enzo Delcampori - https://www.linkedin.com/in/enzodelcompare/
 
 Reginaldo Batista - https://www.linkedin.com/in/reginaldo-batista/
 
+Mazoelle Oliveira - https://lnkd.in/dSncQC-4 
+
 --------------------------------------------------------------------------------------------------
 Cronograma
 -
