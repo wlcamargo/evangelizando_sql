@@ -1,0 +1,98 @@
+Pergunta 1: Um usuário deseja acessar o SQL Server Management Studio (SSMS) localmente. Qual é a opção mais fácil de acesso?
+
+A) Windows Authentication (Autenticação do Windows) 
+B) SQL Server Authentication (Autenticação do SQL Server) 
+C) Active Directory - Universal with MFA
+D) Active Directory - Password
+ 
+Resposta correta: A) Windows Authentication (Autenticação do Windows)
+
+
+Pergunta 2: Qual "atalho" dentro da interface do SQL Server Management Studio (SSMS) é usado para criar uma query no SSMS?
+
+A) New Project  
+B) New Query 
+C) Execute 
+D) New Database 
+
+Resposta correta: B) New Query
+
+
+Pergunta 3: Qual é a hierarquia correta de uma Database no SQL Server?
+
+a) Coluna, Schema, Database, Tabela e Linha 
+b) Database, Schema, Tabela, Linha e Coluna 
+c) Database, Schema, Tabela, Coluna e Linha 
+d) Tabela, Database, Schema, Coluna e Linha
+
+Resposta Certa: c) Database, Schema, Tabela, Coluna e Linha
+
+
+Pergunta 4: O que é um Schema no banco de dados?
+
+A) Um tipo de índice usado para otimizar consultas. 
+B) Uma linguagem de programação para consultas complexas. 
+C) Pode agrupar tabelas para melhorar a organização e controle de acessos. 
+D) Uma técnica de criptografia para proteger os dados armazenados.
+
+Resposta correta: C) Pode agrupar tabelas para melhorar a organização e controle de acessos
+
+
+Pergunta 5: Qual o comando SQL do SQL Server para criar um banco de dados?
+
+A) BUILD DATABASE database_name; 
+B) INSERT DATABASE INTO database_name; 
+C) ALTER TABLE database_name ADD DATABASE; 
+D) CREATE DATABASE database_name;
+
+Resposta correta: D) CREATE DATABASE database_name;
+
+
+Pergunta 6: O que são tipos de dados em um SGBD?
+
+a) São nomes de tabelas e colunas 
+b) São métodos para criar backups 
+c) São representações dos formatos de informações armazenadas 
+d) São funções para criar consultas complexas
+
+Resposta Certa: c) São representações dos formatos de informações armazenadas
+
+
+Pergunta 7: Qual o melhor tipo de dado para a inserção de textos longos como parágrafos?
+
+A) VARCHAR(50) 
+B) INT 
+C) TEXT 
+D) CHAR(100)
+
+Resposta correta: C) TEXT
+
+
+Pergunta 8: Qual a principal diferença entre Decimal e Float na linguagem SQL?
+
+A) Float para inteiros, Decimal para casas decimais. 
+B) Decimal para notação científica, Float para inteiros. 
+C) Decimal é mais eficiente, abreviação de Float. 
+D) Float é aproximado, Decimal é preciso.
+
+Resposta correta: D) Float é aproximado, Decimal é preciso
+
+
+Pergunta 9: Qual é o primeiro passo para criar uma tabela em um banco de dados?
+
+a) Definir a estrutura de colunas e tipos de dados 
+b) Inserir registros diretamente na tabela 
+c) Criar um schema para a tabela 
+d) Configurar permissões de acesso à tabela
+
+Resposta Certa: a) Definir a estrutura de colunas e tipos de dados
+
+
+Pergunta 10: Qual a estrutura básica em SQL para a criação de uma tabela no SQL Server Management Studio (SSMS)?
+
+A) CREATE TABLE table_name ( column1 datatype ); 
+B) INSERT INTO table_name VALUES (); 
+C) MAKE TABLE table_name;
+D) DEFINE table_name;
+
+Resposta correta: A) CREATE TABLE table_name ( column1 datatype );

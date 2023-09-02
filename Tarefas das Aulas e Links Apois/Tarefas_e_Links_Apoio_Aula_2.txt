@@ -1,0 +1,9 @@
+Tarefa 1 - Criar uma tabela de sua escolha
+Tarefa 2 - Explicar motivo da escolha dos tipos de dados
+Tarefa 3 - Postar no Linkedin um print da tabela (se marcar os envolvidos no projeto vai ganhar mais pontos) 
+
+Links de Apoio 
+--------------------------------------------------------------------------------------------------
+
+Link para documentação de tipos de dados no SQL Server
+https://learn.microsoft.com/pt-br/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver16

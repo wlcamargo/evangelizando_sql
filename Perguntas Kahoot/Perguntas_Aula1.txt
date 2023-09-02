@@ -1,0 +1,64 @@
+1 - Qual é o significado do acrônimo SQL?
+a) Structured Query Language 
+b) System Query Level 
+c) Sequential Query Logic 
+d) Software Query Loop
+Resposta Certa: a) Structured Query Language
+
+
+2- Qual categoria de comandos SQL é usada para consultar dados de um banco de dados?
+a) DDL b) DQL c) DCL d) TCL
+Resposta Certa: b) DQL
+
+
+3- Qual tipo de comando SQL é usado para criar uma nova tabela em um banco de dados? Sabendo que criar objetos vai alterar a estrutura do Database.
+a) DDL b) DML c) DCL d) TCL
+Resposta Certa: a) DDL
+
+
+4 - Qual dos seguintes comandos é um exemplo de DDL?
+a)	SELECT b) UPDATE c) DELETE d) CREATE
+Resposta Certa: d) CREATE
+
+
+5 - Para que serve a linguagem SQL?
+1.	Errada: Para criar gráficos e imagens interativos em sites: A SQL não é projetada para criar gráficos ou imagens interativos em sites. Ela lida principalmente com consultas e manipulação de dados em bancos de dados.
+2.	Errada: Para escrever programas de jogos em 3D: A SQL não é uma linguagem voltada para o desenvolvimento de jogos em 3D. Ela se concentra em consultas e gerenciamento de dados em sistemas de banco de dados.
+3.	Errada: Para criar interfaces de usuário de aplicativos móveis: Embora a SQL possa ser usada para recuperar dados que serão exibidos nas interfaces de usuário, não é a principal linguagem para criar interfaces de usuário em aplicativos móveis.
+4.	Certa: Para consultar, manipular e gerenciar bancos de dados relacionais: A SQL é principalmente usada para realizar uma variedade de operações em bancos de dados relacionais, incluindo consultas (recuperação de informações), inserção, atualização e exclusão de dados, criação e gerenciamento de tabelas, entre outras tarefas relacionadas aos dados.
+
+
+6 - A linguagem SQL só pode ser utilizada no SQL Server?
+
+Opção 1 (Incorreta): Sim, é exclusiva para uso no SQL Server.
+Opção 2 (Incorreta): A linguagem SQL é restrita a bancos de dados antigos e está obsoleta.
+Opção 3 (Incorreta): A linguagem SQL é utilizada apenas no sistema operacional Windows.
+Opção 4 (Correta): Não, a linguagem SQL é uma linguagem padrão utilizada em diversos SGBDs.
+
+
+7 - Qual SGBD é conhecido por ser de código aberto e amplamente utilizado, sendo compatível com a linguagem SQL?
+a)	SQL Server b) Oracle Database c) MySQL d) Todas as opções
+Resposta Certa: c) MySQL
+
+
+8 - O que são SGBDs?
+a) Sistemas Gráficos de Backup de Dados 
+b) Softwares Geradores de Backup de Dados 
+c) Sistemas Gerenciadores de Banco de Dados 
+d) Softwares Gráficos de Banco de Dados
+Resposta Certa: c) Sistemas Gerenciadores de Banco de Dados
+
+
+9 - Qual é a diferença entre DML (Data Manipulation Language) e DDL (Data Definition Language) no SQL?
+a) DML define a estrutura do banco de dados, enquanto DDL é manipula os dados. 
+b) DML cria tabelas e relacionamentos, enquanto DDL consulta dados. 
+c) DML consulta dados, enquanto DDL manipula dados (INSERT e DELETE). 
+d) DML manipula dados (INSERT e DELETE), já o DDL define a estrutura do banco.
+Resposta Certa: d) DML manipula dados (INSERT e DELETE), enquanto DDL define a estrutura do banco de dados.
+
+
+10 - é correto afirmar que o sql server é o melhor banco de dados para todas as soluções? 
+Opção 1 (Errada): Sim, o SQL Server é a única opção viável para todas as soluções de BD.
+Opção 2 (Errada): Não, o SQL Server é obsoleto e não é mais usado como solução de BD.
+Opção 3 (Errada): Sim, o SQL Server é a opção mais econômica e eficiente para todas soluções.
+Opção 4 (Correta): Não, a escolha do melhor BD depende das necessidades de cada projeto.
