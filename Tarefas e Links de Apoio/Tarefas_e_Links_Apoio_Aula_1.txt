@@ -1,0 +1,25 @@
+Tarefa 1 - Instalar o SQL Server
+Tarefa 2 - Anexar o banco de dados Adventure Works
+
+Links de Apoio 
+--------------------------------------------------------------------------------------------------
+
+Link da instalação do SQL Server por Ítalo Mesquita:
+https://www.youtube.com/watch?v=k2q0nvsEkSM&t=2s
+
+Link do vídeo para instalar o SQL Server (Hashtag Treinamento): 
+https://www.youtube.com/watch?v=mi0t1bz_NKs
+
+Link do vídeo para instalar o SQL Server (Power Tuning):
+https://www.youtube.com/watch?v=hko8_P8_QtE&t=998s
+
+---------------------------------------------------------------------------------------------------
+Link para adicionar o banco de dados adventure works
+https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+
+Link sobre a história da linguagem SQL
+https://pt.wikipedia.org/wiki/SQL
+
+Link com Ranking dos SGBDs
+https://db-engines.com/en/ranking
+
