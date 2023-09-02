@@ -6,6 +6,16 @@ O projeto nasceu de uma conversa entre mim (Wallace Camargo) e o Shalom André. 
 
 O intuito do projeto é disseminar o conceito básico de SQL para profissionais que desejam iniciar na carreira de dados. O projeto não vai abordar conceitos importantes que um DBA precisa saber, o foco é para utilizadores dos dados, sendo eles analistas, engenheiros ou cientistas. 
 
+Links
+-
+
+Grupo Whatsapp: https://chat.whatsapp.com/LstGsRnZCSqDPR0rr5L0wF
+
+Canal oficial da transmissão: https://www.youtube.com/watch?v=fltjmaeXbfQ&list=PLbPvnlmz6e_LeQn0tls5MczWIZCj9zZNi
+
+Kahoot: www.kahoot.it
+
+
 Participantes e Apoiadores
 -
 Shalom André
