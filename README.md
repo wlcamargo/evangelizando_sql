@@ -8,21 +8,46 @@ O intuito do projeto é disseminar o conceito básico de SQL para profissionais 
 
 Participantes e Apoiadores
 -
-Shalom André - https://www.linkedin.com/in/shalomandre/
+Shalom André
+-
+- Linkedin: https://www.linkedin.com/in/shalomandre/
+- Canal: https://www.youtube.com/@shalomandre7615
+----------------------------------------------------------------------------
+Wallace Camargo
+-
+- https://www.linkedin.com/in/wallace-camargo-35b615171/
+- Canal: https://www.youtube.com/channel/UCK0B4IoF57JoiVVVeEcN8-A
+----------------------------------------------------------------------------
+Ítalo Mesquita
+-
+- Linkedin: https://www.linkedin.com/in/italomesquita/
+- Canal: https://www.youtube.com/@ItaloMesquita
+----------------------------------------------------------------------------
+Luiz Lima 
+- 
+- Linkedin: https://www.linkedin.com/in/luizvitorlima/
+- Site: https://luizlima.net/
+- Canal: https://www.youtube.com/channel/UCkomEA1Yef6DEa6vB4WYfWw/videos
+----------------------------------------------------------------------------
+Raphael Amorin 
+-
+- Linkedin: https://www.linkedin.com/in/raphael-amorim-de-santana/
+- Canal: https://www.youtube.com/@bifastsolutions
+----------------------------------------------------------------------------
+Enzo Delcampori 
+-
+- Linkedin: https://www.linkedin.com/in/enzodelcompare/
 
-Wallace Camargo - https://www.linkedin.com/in/wallace-camargo-35b615171/
+----------------------------------------------------------------------------
+Reginaldo Batista 
+-
+- Linkedin: https://www.linkedin.com/in/reginaldo-batista/
 
-Ítalo Mesquita -  https://www.linkedin.com/in/italomesquita/
-
-Luiz Lima - https://www.linkedin.com/in/luizvitorlima/
-
-Raphael Amorin -  https://www.linkedin.com/in/raphael-amorim-de-santana/
-
-Enzo Delcampori - https://www.linkedin.com/in/enzodelcompare/
-
-Reginaldo Batista - https://www.linkedin.com/in/reginaldo-batista/
-
-Mazoelle Oliveira - https://lnkd.in/dSncQC-4 
+----------------------------------------------------------------------------
+Mazoelle Oliveira
+-
+- Linkedin: https://lnkd.in/dSncQC-4 
+- Canal: https://www.youtube.com/@mazoelleoliveira6573
 
 --------------------------------------------------------------------------------------------------
 Cronograma
@@ -248,7 +273,7 @@ Conteúdo abordado
 
 --------------------------------------------------------------------------------------------------
 
-Aula 8 - 11/10/2023 - Resolução do Processo
+Aula 8 - 11/10/2023 - Todos palestrantes
 -
 
 Conteúdo abordado
