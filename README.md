@@ -112,9 +112,15 @@ Como faço para ganhar o certificado?
 Eu vou aprender a criar uma view? Vou saber exatamente o que é isso e para que serve?
 
          - Sim, vai sair entendendo tudo sobre uma view
+         
+
+Tarefas e Links de Apoio
+--------------------------------------------------------------------------------------------------
+
+Ao final de cada aula, a pasta "Tarefas e links de apoio" será atualizada com uma tarefa que deverá ser realizada até a próxima aula
 
 --------------------------------------------------------------------------------------------------
-Grade
+Grade de Projeto
 --------------------------------------------------------------------------------------------------
 
 Aula 1 - 23/08/2023 - Wallace Camargo - https://www.youtube.com/watch?v=fltjmaeXbfQ&t=2642s
@@ -294,3 +300,4 @@ Conteúdo abordado
 - Resolução de teste para processo seletívo
 
 --------------------------------------------------------------------------------------------------
+
