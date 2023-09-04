@@ -187,7 +187,7 @@ Conteúdo abordado
 
 - Apresentação – Quem somos nós
 
-- Manipulação da estrutura (Create, Alter, Drop)
+- Definição da estrutura (Create, Alter, Drop)
 
 - Manipulação de dados (Insert, Update e Delete)
 
