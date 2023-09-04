@@ -179,7 +179,7 @@ Conteúdo abordado
 
 --------------------------------------------------------------------------------------------------
 
-Aula 3 - 06/09/2023 - Ítalo Mesquita
+Aula 3 - 06/09/2023 - Ítalo Mesquita - https://www.youtube.com/watch?v=kGCsvBmIvJA
 -
 
 Conteúdo abordado
