@@ -203,7 +203,7 @@ Conteúdo abordado
 
 --------------------------------------------------------------------------------------------------
 
-Aula 4 - 13/09/2023 - Luiz Lima
+Aula 4 - 13/09/2023 - Luiz Lima - https://www.youtube.com/watch?v=hqznRuraqXA&list=PLbPvnlmz6e_LeQn0tls5MczWIZCj9zZNi&index=4
 -
 
 Conteúdo abordado
