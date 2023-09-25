@@ -22,7 +22,7 @@ Kahoot: www.kahoot.it
 - Canal: https://www.youtube.com/@shalomandre7615
 ----------------------------------------------------------------------------
 ### Wallace Camargo
-- https://www.linkedin.com/in/wallace-camargo-35b615171/
+- Linkedin: https://www.linkedin.com/in/wallace-camargo-35b615171/
 - Canal: https://www.youtube.com/channel/UCK0B4IoF57JoiVVVeEcN8-A
 ----------------------------------------------------------------------------
 ### Ítalo Mesquita
