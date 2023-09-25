@@ -1,0 +1,69 @@
+1) Como podemos evitar o erro na criação de um objeto: "There is already an object named 'Log_Counter' in the database."?
+A) Utilizando comando DROP TABLE IF EXISTS para qualquer versão do SQL Server
+B) Basta fazer um DROP TABLE após o erro que o problema será resolvido
+C) Não tem como fazer esse tipo de tratamento
+D) Utilizando o comando DROP TABLE IF EXISTS à partir do SQL Server 2016
+Resposta: D
+
+2) É possível criar uma FOREIGN KEY (FK) entre duas databases distintas?
+A) Depende, se estiverem no mesmo servidor é possível sim
+B) Não, nesse caso não vamos conseguir garantir a integridade
+C) Sim, o SQL Server utiliza as Fks para garantir a integridade dos dados
+D) Depende, se estiverem em servidores diferentes não será possível
+Resposta: B
+
+3) O comando IF está correto? DECLARE @VALOR INT = 1 IF (@VALOR = 1) BEGIN TRAN SELECT 'O VALOR É IGUAL A 1!' END
+A) Não, pois o comando vai gerar um erro de sintaxe
+B) Não, pois o comando todo foi escrito com uma linha só e vai gerar erro
+C) Sim, pois primeiro precisamos abrir uma transação para depois validar
+D) Sim, o comando será executado normalmente
+Resposta: A
+
+4) No SQL Server, podemos fazer um SELECT da seguinte forma?
+A) SELECT * FROM [DatabaseName].[ServerName].[SchemaName].[ObjectName]
+B) SELECT * FROM [ServerName].[SchemaName].[DatabaseName].[ObjectName]
+C) SELECT * FROM [ServerName].[DatabaseName].[SchemaName].[ObjectName]
+D) SELECT * FROM [DatabaseName].[ServerName].[ObjectName].[SchemaName]
+Resposta: C
+
+5) A ordem correta que o SQL Server analisa uma query é:
+A) SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY
+B) FROM, WHERE, GROUP BY, SELECT, HAVING, ORDER BY
+C) FROM, WHERE, GROUP BY, HAVING, ORDER BY, SELECT
+D) FROM, WHERE, GROUP BY, HAVING, SELECT, ORDER BY
+Resposta: D
+
+6) O comando está correto? SELECT Id_Loja, YEAR(Dt_Venda) AS Ano, Vl_Venda FROM Vendas WHERE Ano = 2023
+A) Não, ele vai gerar um erro no WHERE ao utilizar a coluna ano
+B) Não, ele vai gerar um erro no SELECT YEAR(Dt_Venda)
+C) Sim, ele será executado normalmente
+D) Não, está faltando um GROUP BY no comando 
+Resposta: A
+
+7) O comando está correto? SELECT YEAR(Dt_Venda) AS Ano, SUM(Vl_Venda) AS Total FROM Vendas
+A) Sim, ele será executado normalmente
+B) Não, está faltando um GROUP BY no comando
+C) Não, está faltando utilizar algum filtro no WHERE
+D) Não, está faltando um HAVING no comando para agrupar
+Resposta: B
+
+8) O comando está correto? SELECT Id_Loja, YEAR(Dt_Venda) AS Ano, Vl_Venda FROM Vendas ORDER BY Ano, 3
+A) Não, pois não é possível misturar colunas com a posição no ORDER BY
+B) Não, pois vai gerar um erro de sintaxe no ORDER BY
+C) Sim, ele será executado normalmente
+D) Nenhuma das respostas anteriores
+Resposta: C
+
+9) O resultado da expressão é: SELECT 10 + (5 + (2 / 2)) * 2 + 8
+A) 30
+B) 70
+C) 160
+D) Nenhuma das respostas anteriores
+Resposta: A
+
+10) Como podemos retornar os valores nulos da coluna "Vl_Venda"?
+A) SELECT * FROM Vendas WHERE Dt_Venda IS NULL
+B) SELECT * FROM Vendas WHERE Vl_Venda IS NULL
+C) SELECT * FROM Vendas WHERE Vl_Venda <> NULL
+D) SELECT * FROM Vendas WHERE Vl_Venda IS NOT NULL
+Resposta: B

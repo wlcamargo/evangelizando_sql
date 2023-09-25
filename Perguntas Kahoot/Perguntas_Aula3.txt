@@ -1,0 +1,70 @@
+01. Você precisa apagar as informações de uma tabela onde as triggers não devem ser acionadas.
+O que é mais adequado usar?
+
+a. DROP
+b. DELETE
+c. TRUNCATE ✅
+d. CHECK
+
+02. É possível usar controle de transação "BEGIN TRANSACTION" para o comando "DROP TABLE tblClientes"
+
+a. É possível e recomendada a utilização
+b. Não ✅
+c. Depende do contexto da query
+d. Apenas se for o primeiro comando do bloco
+
+03. A afirmação, toda coluna PK obrigatoriamente é uma Identity é...
+
+a. Verdadeira
+b. Verdadeira em partes
+c. Falsa ✅
+d. Falsa em partes
+
+04. PK é o mesmo que:
+
+a. Primary Key ✅
+b. Primeira Chave
+c. Chave Prisioneira
+d. Keep Primary
+
+05. O que são contraints no SQL Server?
+
+a. São colunas que se ligam a outras tabelas (FK)
+b. São tipos de dados bem específicos
+c. São um conjunto de comandos pouco utilizados por não serem performáticos
+d. São regras aplicadas nas colunas de uma tabela ✅
+
+06. Quais desses comandos não é considerado uma contraints?
+
+a. CHECK
+b. DEFAULT
+c. VALUES ✅
+d. UNIQUE
+
+07. Em qual dos comandos abaixo não é possível utilizar BEGIN TRANSACTION para controle de transação?
+
+a. DROP ✅
+b. TRUNCATE
+c. DELETE
+d. INSERT
+
+08. Uma Primary Key (Chaves Primárias) pode ser classificada como?
+
+a. Simples
+b. Compositoria
+c. Composição
+d. Simples ou Composta ✅
+
+09. Para que serve a constraint NOT NULL?
+
+a. Evitar que sejam salvas informações em branco
+b. Evitar que sejam salvas informações com outros tipos de dados
+c. Evitar que sejam salvas informações nulas ✅
+d. Evitar que sejam salvas informações nulas e em branco
+
+10. O que não é possível apagar com o comando DROP?
+
+a. DATABASE
+b. INDICES
+c. VIEW
+d. Nenhuma das alternativas ✅
