@@ -224,7 +224,7 @@ Ao final de cada aula, a pasta "Tarefas e links de apoio" será atualizada com u
 
 ### Conteúdo abordado
 
-- junção de tabelas (joins)
+- União de tabelas
 
 - Funções de agregação – (sum, count, avg, max e min)
 
