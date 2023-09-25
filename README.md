@@ -224,7 +224,7 @@ Ao final de cada aula, a pasta "Tarefas e links de apoio" será atualizada com u
 
 ### Conteúdo abordado
 
-- União de tabelas
+- União de tabelas (Union vs Union ALL)
 
 - Funções de agregação – (sum, count, avg, max e min)
 
@@ -242,7 +242,7 @@ Ao final de cada aula, a pasta "Tarefas e links de apoio" será atualizada com u
   
 - Modelagem de dados Relacional
 
-- Junção de tabelas
+- Junção de tabelas (Joins)
 
 - Teste Kahoot
 
