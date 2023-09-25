@@ -172,7 +172,7 @@ Ao final de cada aula, a pasta "Tarefas e links de apoio" será atualizada com u
 
 ## Aula 3 - 06/09/2023 - Ítalo Mesquita 
 
-### Link -https://www.youtube.com/watch?v=kGCsvBmIvJA
+### Link - https://www.youtube.com/watch?v=kGCsvBmIvJA
 
 ### Conteúdo abordado
 
