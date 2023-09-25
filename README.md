@@ -1,13 +1,12 @@
 # Regulamento do Projeto
 
-Contextualização
--
+## Contextualização
+
 O projeto nasceu de uma conversa entre mim (Wallace Camargo) e o Shalom André. Estávamos inicialmente planejando que eu o desafiasse ao vivo em SQL e que outras pessoas pudessem acompanhar o desafio, mas o rumo acabou sendo diferente a agora vamos realizar um mini curso de SQL e deixar nossa contribuição com a comunidade dos dados. 
 
 O intuito do projeto é disseminar o conceito básico de SQL para profissionais que desejam iniciar na carreira de dados. O projeto não vai abordar conceitos importantes que um DBA precisa saber, o foco é para utilizadores dos dados, sendo eles analistas, engenheiros ou cientistas. 
 
-Links
--
+## Links
 
 Grupo Whatsapp: https://chat.whatsapp.com/LstGsRnZCSqDPR0rr5L0wF
 
@@ -16,52 +15,49 @@ Canal oficial da transmissão: https://www.youtube.com/watch?v=fltjmaeXbfQ&list=
 Kahoot: www.kahoot.it
 
 
-Participantes e Apoiadores
--
-Shalom André
--
+## Participantes e Apoiadores
+
+### Shalom André
 - Linkedin: https://www.linkedin.com/in/shalomandre/
 - Canal: https://www.youtube.com/@shalomandre7615
 ----------------------------------------------------------------------------
-Wallace Camargo
--
+### Wallace Camargo
 - https://www.linkedin.com/in/wallace-camargo-35b615171/
 - Canal: https://www.youtube.com/channel/UCK0B4IoF57JoiVVVeEcN8-A
 ----------------------------------------------------------------------------
-Ítalo Mesquita
--
+### Ítalo Mesquita
+
 - Linkedin: https://www.linkedin.com/in/italomesquita/
 - Canal: https://www.youtube.com/@ItaloMesquita
 ----------------------------------------------------------------------------
-Luiz Lima 
-- 
+### Luiz Lima 
+
 - Linkedin: https://www.linkedin.com/in/luizvitorlima/
 - Site: https://luizlima.net/
 - Canal: https://www.youtube.com/channel/UCkomEA1Yef6DEa6vB4WYfWw/videos
 ----------------------------------------------------------------------------
-Raphael Amorin 
--
+### Raphael Amorin 
+
 - Linkedin: https://www.linkedin.com/in/raphael-amorim-de-santana/
 - Canal: https://www.youtube.com/@bifastsolutions
 ----------------------------------------------------------------------------
-Enzo Delcampori 
--
+### Enzo Delcampori 
+
 - Linkedin: https://www.linkedin.com/in/enzodelcompare/
 
 ----------------------------------------------------------------------------
-Reginaldo Batista 
--
+### Reginaldo Batista 
+
 - Linkedin: https://www.linkedin.com/in/reginaldo-batista/
 
 ----------------------------------------------------------------------------
-Mazoelle Oliveira
--
+### Mazoelle Oliveira
+
 - Linkedin: https://lnkd.in/dSncQC-4 
 - Canal: https://www.youtube.com/@mazoelleoliveira6573
 
 --------------------------------------------------------------------------------------------------
-Cronograma
--
+## Cronograma
 
 Serão 8 encontros realizados todas às quartas-feiras 20h Brasília com a duração estimada de 1 hora cada encontro. (total de 8 horas)
 
@@ -70,8 +66,7 @@ Data final 11/10/2023
 
 
 
-Perguntas mais frequentes
---------------------------------------------------------------------------------------------------
+## Perguntas mais frequentes
 
 Existe algum grupo de Whatsapp?
 
@@ -114,20 +109,18 @@ Eu vou aprender a criar uma view? Vou saber exatamente o que é isso e para que 
          - Sim, vai sair entendendo tudo sobre uma view
          
 
-Tarefas e Links de Apoio
---------------------------------------------------------------------------------------------------
+## Tarefas e Links de Apoio
 
 Ao final de cada aula, a pasta "Tarefas e links de apoio" será atualizada com uma tarefa que deverá ser realizada até a próxima aula
 
---------------------------------------------------------------------------------------------------
-Grade de Projeto
---------------------------------------------------------------------------------------------------
 
-Aula 1 - 23/08/2023 - Wallace Camargo - https://www.youtube.com/watch?v=fltjmaeXbfQ&t=2642s
--
+# Grade de Projeto
 
-Conteúdo abordado
--
+## Aula 1 - 23/08/2023 - Wallace Camargo 
+
+### Link - https://www.youtube.com/watch?v=fltjmaeXbfQ&t=2642s
+
+### Conteúdo abordado
 
 - Apresentação – Quem somos nós
 
@@ -155,13 +148,11 @@ Conteúdo abordado
 
 --------------------------------------------------------------------------------------------------
 
-Aula 2 - 30/08/2023 - Raphael Amorim - https://www.youtube.com/watch?v=w5RVscFnYVQ
--
+## Aula 2 - 30/08/2023 - Raphael Amorim 
 
-Conteúdo abordado
--
+### Link - https://www.youtube.com/watch?v=w5RVscFnYVQ
 
-- Apresentação – Quem somos nós
+### Conteúdo abordado
 
 - Primeiro acesso ao SGBD
 
@@ -179,13 +170,11 @@ Conteúdo abordado
 
 --------------------------------------------------------------------------------------------------
 
-Aula 3 - 06/09/2023 - Ítalo Mesquita - https://www.youtube.com/watch?v=kGCsvBmIvJA
--
+## Aula 3 - 06/09/2023 - Ítalo Mesquita 
 
-Conteúdo abordado
--
+### Link -https://www.youtube.com/watch?v=kGCsvBmIvJA
 
-- Apresentação – Quem somos nós
+### Conteúdo abordado
 
 - Definição da estrutura (Create, Alter, Drop)
 
@@ -203,13 +192,13 @@ Conteúdo abordado
 
 --------------------------------------------------------------------------------------------------
 
-Aula 4 - 13/09/2023 - Luiz Lima - https://www.youtube.com/watch?v=hqznRuraqXA&list=PLbPvnlmz6e_LeQn0tls5MczWIZCj9zZNi&index=4
--
+## Aula 4 - 13/09/2023 - Luiz Lima 
 
-Conteúdo abordado
--
+### Link - https://www.youtube.com/watch?v=hqznRuraqXA&t=3868s (parte 1)
 
-- Apresentação – Quem somos nós
+### Link - https://www.youtube.com/watch?v=96-EvtvHFKg&t=942s (parte 2)
+
+### Conteúdo abordado
 
 - Introdução as consultas (Select)
 
@@ -231,15 +220,11 @@ Conteúdo abordado
 
 --------------------------------------------------------------------------------------------------
 
-Aula 5 - 20/09/2023 - Wallace Camargo
--
+## Aula 5 - 20/09/2023 - Wallace Camargo
 
-Conteúdo abordado
--
+### Conteúdo abordado
 
-- Apresentação – Quem somos nós
-
-- União de tabelas
+- junção de tabelas (joins)
 
 - Funções de agregação – (sum, count, avg, max e min)
 
@@ -251,13 +236,9 @@ Conteúdo abordado
 
 --------------------------------------------------------------------------------------------------
 
-Aula 6 - 27/09/2023 - Ítalo Mesquita
--
+## Aula 6 - 27/09/2023 - Ítalo Mesquita
 
-Conteúdo abordado
--
-
-- Apresentação – Quem somos nós
+### Conteúdo abordado
   
 - Modelagem de dados Relacional
 
@@ -267,13 +248,9 @@ Conteúdo abordado
 
 --------------------------------------------------------------------------------------------------
 
-Aula 7  - 04/10/2023 - Luiz Lima
--
+## Aula 7  - 04/10/2023 - Luiz Lima
 
-Conteúdo abordado
--
-
-- Apresentação – Quem somos nós
+### Conteúdo abordado
   
 - Variáveis
   
@@ -289,13 +266,9 @@ Conteúdo abordado
 
 --------------------------------------------------------------------------------------------------
 
-Aula 8 - 11/10/2023 - Todos palestrantes
--
+## Aula 8 - 11/10/2023 - Todos palestrantes
 
-Conteúdo abordado
--
-
-- Apresentação – Quem somos nós
+### Conteúdo abordado
   
 - Resolução de teste para processo seletívo
 
