@@ -848,7 +848,7 @@ OPTION (MAXDOP 1, RECOMPILE)
 Ordem de Precedência (1 é o nível MAIS ALTO e 8 é o nível MAIS BAIXO):
 
 	1) () (Parênteses)
-	2) * (Multiplicação), / (Divisão), % (Módulo)
+	2) * (Multiplicação), / (Divisão), % (Módulo - Resto da Divisão)
 	3) + (Positivo), – (Negativo), + (Adição), + (Concatenação), – (Subtração)
 	4) =, >, <, >=, <=, <>, !=, !>, !< (Operadores de Comparação)
 	5) NOT
@@ -877,6 +877,12 @@ SELECT 5 + (5 + (2 * 2)) + 2 * 10
 SELECT 5 / 2
 
 SELECT 5 / 2.0
+
+SELECT 5 % 2
+
+SELECT 9 % 5
+
+SELECT 9 % 3
 
 
 --	EXEMPLO 2 - OPERADORES NO MESMO NÍVEL:
@@ -919,16 +925,17 @@ DROP TABLE IF EXISTS TesteNull
 CREATE TABLE TesteNull (
 	ID INT IDENTITY(1,1) NOT NULL,
 	Nome VARCHAR(100) NOT NULL,
-	DataNascimento DATE NULL
+	DataNascimento DATE NOT NULL,
+	Observacao VARCHAR(200) NULL
 )
 
 INSERT INTO TesteNull
 VALUES
-	('Wallace Camargo', '19801015'),
-	('Luiz Lima', NULL),
-	('Ítalo Mesquita', '19881201'),
-	('Raphael Amorim', NULL),
-	('Enzo Delcompare', '19820524')
+	('Wallace Camargo', '19801015', 'Mora em Portugal'),
+	('Luiz Lima', '19890309', NULL),
+	('Ítalo Mesquita', '19881201', 'Mora em Portugal'),
+	('Raphael Amorim', '19900101', ''),
+	('Enzo Delcompare', '19820524', 'Mora no Brasil')
 
 SELECT * FROM TesteNull
 
@@ -936,18 +943,23 @@ SELECT * FROM TesteNull
 SELECT * 
 FROM TesteNull
 WHERE
-	DataNascimento = NULL
+	Observacao = NULL
 
 SELECT * 
 FROM TesteNull
 WHERE
-	DataNascimento IS NULL
+	Observacao IS NULL
 
 SELECT * 
 FROM TesteNull
 WHERE
-	DataNascimento IS NOT NULL
+	Observacao = ''
 
+SELECT * 
+FROM TesteNull
+WHERE
+	Observacao IS NOT NULL
+GO
 
 -- EXEMPLO 2 - IF:
 
@@ -1007,7 +1019,7 @@ GO
 DECLARE @NOME VARCHAR(50), @SOBRENOME VARCHAR(50)
 
 SELECT 
-	@NOME = 'LUIZ', 
+	@NOME = 'LUIZ',
 	@SOBRENOME = 'LIMA'
 
 SELECT @NOME, @SOBRENOME
@@ -1073,6 +1085,7 @@ SELECT @VALOR_ENTRADA = '08'
 SELECT CAST(@VALOR_ENTRADA AS INT)
 GO
 
+
 -- EXEMPLO 2 - CAST COM ERRO:
 DECLARE @VALOR_ENTRADA CHAR(2)
 
@@ -1080,6 +1093,8 @@ SELECT @VALOR_ENTRADA = 'LV'
 
 SELECT CAST(@VALOR_ENTRADA AS INT)
 GO
+
+
 /*
 Msg 245, Level 16, State 1, Line 1069
 Conversion failed when converting the varchar value 'LV' to data type int.
@@ -1095,6 +1110,9 @@ SELECT TRY_CAST(@VALOR_ENTRADA AS INT)
 GO
 
 -- EXEMPLO 4 - CONVERT:
+-- OBS: MOSTRAR O LINK COM OS FORMATOS DE DATAS
+-- REFERÊNCIA:
+-- https://learn.microsoft.com/pt-br/sql/t-sql/functions/cast-and-convert-transact-sql?view=sql-server-ver16
 DECLARE @DATAHORA DATETIME
 
 SELECT @DATAHORA = GETDATE()
