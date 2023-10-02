@@ -266,7 +266,7 @@ Ao final de cada aula, a pasta "Tarefas e links de apoio" será atualizada com u
 
 --------------------------------------------------------------------------------------------------
 
-## Aula 8 - 11/10/2023 - Todos palestrantes
+## Aula 8 - 18/10/2023 - Todos palestrantes
 
 ### Conteúdo abordado
   
