@@ -59,10 +59,10 @@ Kahoot: www.kahoot.it
 --------------------------------------------------------------------------------------------------
 ## Cronograma
 
-Serão 8 encontros realizados todas às quartas-feiras 20h Brasília com a duração estimada de 1 hora cada encontro. (total de 8 horas)
+Serão 8 encontros realizados todas às quartas-feiras 20h de Brasília com a duração estimada de 2 horas cada encontro. (total aproximado de 16 horas)
 
 Data Inicial 23/08/2023
-Data final 11/10/2023
+Data final 18/10/2023
 
 
 
@@ -222,6 +222,8 @@ Ao final de cada aula, a pasta "Tarefas e links de apoio" será atualizada com u
 
 ## Aula 5 - 20/09/2023 - Wallace Camargo
 
+### Link - https://www.youtube.com/watch?v=wSiprj_T-Gs&t=1140s (até 1h:16m)
+
 ### Conteúdo abordado
 
 - União de tabelas (Union vs Union ALL)
@@ -237,6 +239,8 @@ Ao final de cada aula, a pasta "Tarefas e links de apoio" será atualizada com u
 --------------------------------------------------------------------------------------------------
 
 ## Aula 6 - 27/09/2023 - Ítalo Mesquita
+
+### Link - https://www.youtube.com/watch?v=wSiprj_T-Gs&t=1140s (a partir de 1h:16m)
 
 ### Conteúdo abordado
   
