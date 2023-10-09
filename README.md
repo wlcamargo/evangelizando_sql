@@ -36,7 +36,7 @@ Kahoot: www.kahoot.it
 - Site: https://luizlima.net/
 - Canal: https://www.youtube.com/channel/UCkomEA1Yef6DEa6vB4WYfWw/videos
 ----------------------------------------------------------------------------
-### Raphael Amorin 
+### Raphael Amorim
 
 - Linkedin: https://www.linkedin.com/in/raphael-amorim-de-santana/
 - Canal: https://www.youtube.com/@bifastsolutions
