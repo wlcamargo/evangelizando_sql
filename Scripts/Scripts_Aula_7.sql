@@ -2,6 +2,8 @@
 -- AULA 07 - LUIZ LIMA:
 ----------------------------------------------------------------------------------
 
+USE Treinamento_TSQL
+
 ----------------------------------------------------------------------------------
 -- Variáveis
 ----------------------------------------------------------------------------------
@@ -143,8 +145,8 @@ SELECT
 GO
 
 -- EX 2 - SEM REPETIR A CONDIÇÃO:
-DECLARE @RESPOSTA CHAR(1) = 'C'
---DECLARE @RESPOSTA CHAR(1) = 'E'
+--DECLARE @RESPOSTA CHAR(1) = 'C'
+DECLARE @RESPOSTA CHAR(1) = 'E'
 
 SELECT 
 	CASE @RESPOSTA
@@ -318,6 +320,7 @@ VALUES('Centro'), ('Shopping Praia')
 
 SELECT * FROM Loja
 
+SELECT * FROM Vendas
 
 -- 1) USANDO UMA SUBQUERY
 USE Treinamento_TSQL
@@ -438,7 +441,7 @@ GO
 EXEC stpProcTest
 GO
 
--- EXEMPLO 3:
+-- EXEMPLO 3.1:
 CREATE OR ALTER PROCEDURE stpProcTest 
 	@valor1 INT, 
 	@valor2 INT
@@ -449,6 +452,36 @@ END
 GO
 
 EXEC stpProcTest 2, 3
+GO
+
+EXEC stpProcTest 2
+GO
+/*
+Msg 201, Level 16, State 4, Procedure stpProcTest, Line 0 [Batch Start Line 456]
+Procedure or function 'stpProcTest' expects parameter '@valor2', which was not supplied.
+*/
+
+EXEC stpProcTest 2, 'Luiz'
+GO
+
+/*
+Msg 8114, Level 16, State 1, Procedure stpProcTest, Line 0 [Batch Start Line 463]
+Error converting data type varchar to int.
+*/
+
+GO
+
+-- EXEMPLO 3.2:
+CREATE OR ALTER PROCEDURE stpProcTest 
+	@valor1 INT, 
+	@valor2 INT = 0
+AS
+BEGIN
+	SELECT 'A soma dos valores é: ' + CAST( (@valor1 + @valor2) AS VARCHAR)
+END
+GO
+
+EXEC stpProcTest 2
 GO
 
 -- EXEMPLO 4:
@@ -509,6 +542,7 @@ RETURN
 GO
 
 SELECT * FROM Vendas
+ORDER BY Vl_Venda DESC
 
 SELECT * 
 FROM dbo.fncValorVenda(400)
@@ -529,6 +563,8 @@ GO
 ----------------------------------------------------------------------------------
 -- Views
 ----------------------------------------------------------------------------------
+-- OBS 1: COMENTAR SOBRE SELECTS GIGANTES QUE PODEM SER SIMPLIFICADOS POR UMA VIEW.
+-- OBS 2: EVITAR CRIAR VIEW, QUE CHAMA OUTRA VIEW, QUE CHAMA OUTRA VIEW, ... POIS DIFICULTA O ENTENDIMENTO / PERFORMANCE.
 CREATE OR ALTER VIEW vwVendas2020
 AS
 	SELECT *
@@ -546,6 +582,8 @@ FROM vwVendas2020
 WHERE Id_Loja = 2
 ORDER BY Dt_Venda
 
+-- OBS: COMENTAR SOBRE VIEW x Acesso Tabelas
+
 
 ----------------------------------------------------------------------------------
 -- CROSS APPLY / OUTER APPLY
@@ -554,11 +592,10 @@ ORDER BY Dt_Venda
 -- ÍTALO MESQUITA - Aprenda a utilizar os operadores CROSS APPLY e OUTER APPLY
 -- https://www.youtube.com/watch?v=6x7jT7g3b40
 
-
-----------------------------------------------------------------------------------
--- Disponibilização de teste para processo seletivo
-----------------------------------------------------------------------------------
-
 ----------------------------------------------------------------------------------
 -- Teste Kahoot
+----------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------
+-- Resolução de teste para processo seletivo
 ----------------------------------------------------------------------------------
